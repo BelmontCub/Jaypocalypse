@@ -18,4 +18,7 @@
 Hello, world! As a group, we built a malware virus detector. A Student wanted to learn how to scan his own system for a virus without having to pay an arm and a leg for it. 
 
 ## Uses
-We used a combination of discovered yara rules, Python coding and some google searches to find what worked for us best
+We used a combination of discovered yara rules, Python coding and some google searches to find what worked best for us. 
+
+## Group Effort
+We worked as a team and collaborated with each other to make sure we all had the same code setup to avoid inconcistencies. 
