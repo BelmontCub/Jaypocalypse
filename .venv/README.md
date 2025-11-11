@@ -22,3 +22,5 @@ We used a combination of discovered yara rules, Python coding and some google se
 
 ## Group Effort
 We worked as a team and collaborated with each other to make sure we all had the same code setup to avoid inconcistencies. 
+
+## Happy Virus Killing!
